@@ -20,6 +20,10 @@
 
    git clone https://github.com/flpego/pokedex-pokeapi
 
+   O, puedes abrir la siguiente pagina:
+
+   https://flpego.github.io/pokedex-pokeapi/
+
 3. Abre el archivo index.html en tu navegador web.
 ¡Explora la Pokédex y descubre información sobre tus Pokémon favoritos!
 
